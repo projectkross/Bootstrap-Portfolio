@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	background: url("../images/gaming-pattern.png");
+}
+
+.container {
+    width: 969px;
+}
+
+.navbar {
+	height: 75px;
+	border-bottom: solid #ccc 1px;
+	background:#fff;
+}
+
+h1 {
+	margin-top: 0;
+	line-height:75px;
+	width:260px;
+	background:#4aaaa5;
+	color:#fff;
+	font-size: 18px;
+	text-align: center;
+}
+
+#mynavbar{
+	margin-top: 10px;
+}
+
+h2 {
+	font-size: 16px;
+	text-align: center;
+	color: #4aaaa5;
+}
+
+section {
+	margin-top: 100px;
+	margin-bottom: 200px;
+}
+
+.LinkIcons{
+	padding-left: 30px;
+}
+
+
+.Footer {
+	position: fixed;
+	bottom: 0;
+	border-top: solid #4aaaa5 5px;
+	height:75px;
+	width:100%;
+	background-color:#666;
+}
+
+p#FooterText {
+	font-size: 12px;
+	color:#c1c1c1;
+	text-align: center;
+	margin-top: 25px;
+}
+
+/* contact */
+
+
+.form-area
+{
+	padding: 0px 20px 40px 0px;
+	margin: 20px 0px 20px 0px;
+	}
+
+#submit {
+	background: #4aaaa5;
+	border: 0 none;
+	color: #fff;
+	font-size: 16px;
+	padding: 10px 30px;
+	cursor: pointer;
+}
+
+/*portfolio*/
+
+#portbox {
+	width: 250px;
+	height: 200px;
+	margin-top: 10px;
+}
+
+h3 {
+	margin:0px;
+	text-align: center;
+	background: #4aaaa5;
+	line-height: 50px;
+	color: #fff;
+}
